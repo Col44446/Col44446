@@ -7,12 +7,11 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, Python, C++  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-- **Frontend**: React, Next.js, TailwindCSS  ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
+- **Frontend**: React, Next.js, TailwindCSS  ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react) ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
 - **Backend**: Node.js, Express, Django  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-- **Databases**: MySQL, MongoDB  
-- **Tools & Platforms**: Git, Docker, Linux, AWS  ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
+- **Databases**: MySQL, MongoDB  ![SQL](https://img.shields.io/badge/Database-SQL-4479A1?logo=postgresql&logoColor=white)  
+- **Tools & Platforms**: Git, Docker, Linux, AWS  ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)  
 ---
-
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Col44446&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=col44446&layout=compact&theme=radical)  
