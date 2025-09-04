@@ -6,17 +6,11 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, C++  
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, Express, Django  
+- **Languages**: JavaScript, Python, C++  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+- **Frontend**: React, Next.js, TailwindCSS  ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
+- **Backend**: Node.js, Express, Django  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 - **Databases**: MySQL, MongoDB  
-- **Tools & Platforms**: Git, Docker, Linux, AWS  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
-
+- **Tools & Platforms**: Git, Docker, Linux, AWS  ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
 ---
 
 ### 📈 GitHub Stats
