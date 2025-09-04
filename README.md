@@ -11,6 +11,11 @@
 - **Backend**: Node.js, Express, Django  
 - **Databases**: MySQL, MongoDB  
 - **Tools & Platforms**: Git, Docker, Linux, AWS  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
 
 ---
 
